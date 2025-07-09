@@ -15,11 +15,4 @@ Alumni as ateam Tunisia member in First Global Challange<br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
-
-
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Youssef Mhiri) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
